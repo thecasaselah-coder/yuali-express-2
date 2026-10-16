@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "שמלת שבת אלגנטית - קולקציית פרימיום",
+        "category": "נשים - חרדי קפדני",
+        "price": "₪145",
+        "store": "AliExpress",
+        "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+        "link": "https://www.aliexpress.com",
+        "desc": "בד קומפקטי ונופל, לא שקוף כלל. מושלם לאירועים ושבתות. הגיע תוך שבועיים."
+    },
+    {
+        "id": 2,
+        "title": "חצאית מעטפת א-סימטרית",
+        "category": "נשים - מודרני (שסע/פתוח)",
+        "price": "₪89",
+        "store": "Shein",
+        "image": "https://images.unsplash.com/photo-1583496924840-02bf7cc0f269?w=800",
+        "link": "https://il.shein.com",
+        "desc": "שסע נסתר עדין, גזרה מחמיאה שיושבת מדויק על המותן. איכות תפירה מעולה."
+    },
+    {
+        "id": 3,
+        "title": "סט סריג חורפי לתינוק",
+        "category": "ילדים ותינוקות",
+        "price": "₪59",
+        "store": "Next",
+        "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+        "link": "https://www.next.co.il",
+        "desc": "כותנה אורגנית נעימה למגע, שומר על איכות גם אחרי 10 כביסות."
+    }
+]
